@@ -1,0 +1,2 @@
+> To Run A Chef cook-book locally
+chef-client --local-mode --override-runlist first_cookbook 
