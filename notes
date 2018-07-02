@@ -1,5 +1,0 @@
-> To Run A Chef cook-book locally
-chef-client --local-mode --override-runlist first_cookbook 
-
-
-berks vendor, berks install (to install all depencies of a cookbook)
